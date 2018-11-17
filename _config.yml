@@ -94,11 +94,11 @@ analytics:
     anonymize_ip         : # true, false (default)
  # Site Author
 author:
-  name             : "Your Name"
+  name             : "Bae Seok Hwi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Cash Rules Everything Around Me"
+  location         : "Seoul, Korea"
+  email            : "leblanc0080@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

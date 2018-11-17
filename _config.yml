@@ -10,7 +10,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
  # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
  # Site Settings
 locale                   : "en-US"
 title                    : "6Hseokhwi's blog"
@@ -95,7 +95,7 @@ analytics:
  # Site Author
 author:
   name             : "Bae Seok Hwi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://ichef.bbci.co.uk/news/660/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Cash Rules Everything Around Me"
   location         : "Seoul, Korea"
   email            : "leblanc0080@gmail.com"
